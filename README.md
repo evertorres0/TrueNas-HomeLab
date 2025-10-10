@@ -55,7 +55,9 @@ After configuring the storage pool, I created a dataset to use as a shared resou
   <li>Enter a username and password.</li>
   <li>Check the box labeled SMB User.</li>
 </ul>
-image<br />
+<p align="center">
+  <img src="https://i.imgur.com/HxphVpw.png" alt="Add User"/>
+</p>
 <br />
 Once the user has been created, I proceed to configure and enable the SMB share for your dataset.<br />
 <br />
